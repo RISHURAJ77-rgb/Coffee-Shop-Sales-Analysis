@@ -85,4 +85,4 @@ The dashboard makes it easier to monitor important KPIs, identify sales trends, 
 
 **Rishu Raj**
 
-B.Tech Student | Aspiring Data Analyst / Data Scientist
+B.Tech Student | Aspiring Data Scientist
