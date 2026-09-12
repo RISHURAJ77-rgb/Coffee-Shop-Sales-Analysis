@@ -73,7 +73,7 @@ This dashboard provides a quick overview of coffee shop performance and helps id
 
 ## 🖼️ Dashboard Preview
 
-![Coffee Shop Sales Dashboard](coffee_shop_dashboard.png)
+![Coffee Shop Sales Dashboard](coffee_shop_dashboard.png.png)
 
 ## 📌 Conclusion
 
